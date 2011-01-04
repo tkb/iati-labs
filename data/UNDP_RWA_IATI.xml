@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities version="1.0">
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00071981</other-identifier>
+        <title>Joint Youth Program</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2009-08-07"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>MUSEMAKWERI,JOHN</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>14066</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">9066</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00014653</other-identifier>
+        <title>CONSTRUCTION OF KIGOMA PRISON</title>
+        <description>Short Description: REHABILITATION OF THE JUSTICE SYSTEM-PHASE IIIB (CONSTRUCTION OF A PRISON AT KIGOMA; GITARAMA PREFECTURE)&quot;&quot;
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001041">RWA-Ministere De L'interieur</participating-org>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>9000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">7</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-Ministere De L'interieur</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00014657</other-identifier>
+        <title>Support to NHRC</title>
+        <description>Short Description: Support to the Rwandan National Human Rights Commission
+Long Description: The ouputs foreseen in the project document were to establish a process to define human rights priorities in Rwanda; to accomplish global; departmental and provincial action plans which update the RHRC’s three-year action plan and identify the programme priorities based on an analysis of the human rights situation in Rwanda; to establish regular monitoring process regarding the plans; and to prepare a report reflecting the results of monitoring.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="01787">COL-UNITED NATIONS DEVELOPMENT</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00014659</other-identifier>
+        <title>RESETTLEMENT IN GISENYI</title>
+        <description>Short Description: RESETTLEMENT AND REINTEGRATION IN GISENYI  PROVINCE
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001044">RWA-Ministère Des Terres</participating-org>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>1717</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">1714</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-Ministère Des Terres</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00014662</other-identifier>
+        <title>CNLS Capacity Building</title>
+        <description>Short Description: CAPACITY BUILDING FOR STRENGTHENING NATIONAL RESPONSE OF HIV/AIDS IN RWANDA
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2003-07-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>UMULINGA,MARIE FRANCOISE</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>25700</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">177</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00014664</other-identifier>
+        <title>Technical Assist.Program. for</title>
+        <description>Short Description: Technical Assistance Programme for the 2003 General Elections in Rwanda
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">6236</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00035501</other-identifier>
+        <title>PAF</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00297">UNAIDS</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2004-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>UMULINGA,MARIE FRANCOISE</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>147000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">117600</value>
+            <provider-org>UNAIDS</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00040494</other-identifier>
+        <title>Development Support Services</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2004-10-13"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>75000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">74821</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00058951</other-identifier>
+        <title>Support to Aid Effectiveness</title>
+        <description>Short Description: Support to Aid Coordination; Harmonisation and Alignment for Development Effectiveness in Rwanda
+Long Description: Interim support to aid coordination; harmonisation and alignment for development effectiveness in Rwanda. This project builds on the achievements of DEX project no. 00040553; with a view to ensuring greater national ownership of the aid effectiveness agenda and a gradual transfer of capacities and responsibilty for the management of Rwanda's aid coordination architecture to national entities.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00021">ECONOMIC COMMISSION FOR LATIN</participating-org>
+        <participating-org role="funding" ref="00182">GOVERNMENT OF NETHERLANDS</participating-org>
+        <participating-org role="funding" ref="00550">CANADIAN INTERNATIONAL DEVELOP</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="funding" ref="00555">SWEDISH INT'L DEVELOPMENT COOP</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2007-12-05"/>
+        <activity-date type="end" iso-date="2012-06-30"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>RWABUYONZA,Jean Paul</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>78900</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">76516</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00041147</other-identifier>
+        <title>Support Decentralization Commu</title>
+        <description>Short Description: Cette révision est faite pour refléter une allocation de fonds TRAC de 114;334USD afin de permettre le fonctionnement du projet .
+Long Description: Strengthened capacities of local authorities in Gicumbi and Rulindo in the areas of development planning; financial management; tender; monitoring; good-governance; gender and pro-poor sensitivity.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001008">RWA-Ministry For Local Governm</participating-org>
+        <activity-date type="start" iso-date="2004-11-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>260500</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">230655</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-Ministry For Local Governm</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00041148</other-identifier>
+        <title>Reintegration Umbrella Project</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00555">SWEDISH INT'L DEVELOPMENT COOP</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2004-01-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>42708</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">42708</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00043228</other-identifier>
+        <title>Support to Decentralisation Im</title>
+        <description>Short Description:  
+Long Description: Decentralization process (DIP-5) at central and local level as well as the capacities for the decentralized entities implemented and strengthened.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="implementing" ref="001008">RWA-Ministry For Local Governm</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-03-02"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>Eugene NKUBITO</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>615000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">642892</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-Ministry For Local Governm</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00043701</other-identifier>
+        <title>Support to MINIJUST</title>
+        <description>Short Description:  
+Long Description: Strengthened capacity of the classic judiciary system to ensure effective delivery of fair; rapid; and accessible treatment under the rule of law.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-03-10"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>3000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">-2778</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00043702</other-identifier>
+        <title>Support to GACACA</title>
+        <description>Short Description:  
+Long Description: Strengthened capacity of the National Service for Gacaca Jurisdictions to guide popular and participatory justice processes.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-03-10"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>11</value>
+        </budget-planned>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00050867</other-identifier>
+        <title>Prosecutor's General Office</title>
+        <description>Short Description: Support to Prosecutor's General Office
+Long Description: Improved capacity of the Parquet General of the Republic to protect and promote victims and witnesses' rights.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2006-03-22"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">10369</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00052887</other-identifier>
+        <title>SUPPORT TO FFRP</title>
+        <description>Short Description: SUPPORT TO FFRP
+Long Description: Capacity Building support to the Rwandan Women Parliamentary Forum (Forum des Femmes Parlementaires).  The project supports the implementation of activities as defined in the FFRP's 5 year Strategic Plan (2005-2010).</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2006-08-15"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>91740</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">90478</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00044067</other-identifier>
+        <title>GEF-PIMS3388 MED LD:SLM/CB RWA</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-04-13"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>275000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">270074</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00045359</other-identifier>
+        <title>Appui à la Réforme de l'Admini</title>
+        <description>Short Description:  
+Long Description: Capacity of National Institutions in manpower planning;  institutional development  and management strengthened and improved through training; development of organizational procedures; modernization of public service administration tools and Coordination facilitation</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-06-06"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>318000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">273532</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00045517</other-identifier>
+        <title>Support to Implementation of R</title>
+        <description>Short Description: The purpose of this budget revision is to allow continuity of the activities for the TOKTEN project in January and February 2006 as the annual work plan is being finalised.
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-07-29"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>MUSINGUZI,Richard</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>16052</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">8519</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00045699</other-identifier>
+        <title>ADB support to HIV Multisector</title>
+        <description>Short Description: The project is designed to Strengthen CNLS &amp; umbrellas capacities in planning; coordination; monitoring &amp; evaluation of HIV interventions
+Long Description: CNLS; CDLS; umbrellas; NGOs; and community based associations supported  in the implementation of the National HIV Multisectoral Plan.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00017">AFRICAN DEVELOPMENT BANK</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-01-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>UMULINGA,MARIE FRANCOISE</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>39460</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">37902</value>
+            <provider-org>AFRICAN DEVELOPMENT BANK</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00046259</other-identifier>
+        <title>STRENGTHENING CAPACITIES OF TH</title>
+        <description>Short Description: This project aims to support the Rwandan Human Rights Commission's capacity to effectively and effeciently promote and protect Human Rights.
+Long Description: This project aims to support the Rwandan Human Rights Commission's capacity to effectively and effeciently promote and protect Human Rights._x000D__x000D_
+As per Project Document for PSGG - Human rights promotion and protection; institutional capacity development</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>100000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">90420</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00046709</other-identifier>
+        <title>Poverty and Environment Progra</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00041">UNITED NATIONS ENVIRONMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-01-01"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>MUSEMAKWERI,JOHN</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>421600</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">430328</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00046903</other-identifier>
+        <title>Umutara Rural Development</title>
+        <description>Short Description: 1.2.2.3.3. Strengthen the capacity of local elected leaders and local technicians in human resource management; planning; fiscal decentralization and the provision of basic social services and  rural infrastructure  to the local population
+Long Description: Objective: To contribute to the improvement of the living conditions of the rural population of Nyagatare District_x000D__x000D_
+_x000D__x000D_
+A. OUTPUT 1. Strengthened Capacities of the Authorities of Nyagatare District to plan and implement its District Development Plan: _x000D__x000D_
+A.1. Support the administrative capacities of the District of Nyagatare_x000D__x000D_
+_x000D__x000D_
+B. OUTPUT 2. Strengthened District capacity  in Food Security through provision of food storage facilities and training:_x000D__x000D_
+B.1. Build silos for foodstuffs storage and sale_x000D__x000D_
+B.2. Develop / rehabilitate and cultivate marshlands_x000D__x000D_
+_x000D__x000D_
+C. OUTPUT 3.  Improved Productive Capacities and Management Structures of Selected Cooperatives Operating at District Level._x000D__x000D_
+C.1. Increase and consolide at least 10 productive associations _x000D__x000D_
+C.2. Support new service and marketing co-operatives on a competitive basis_x000D__x000D_
+C.3. Increase the capacity of the paddy rice husking plant_x000D__x000D_
+C.4. Set up a social development fund at the provincial level_x000D__x000D_
+_x000D__x000D_
+D.  OUTPUT 4. Improved access to and management of potable water systems at District Level:_x000D__x000D_
+D.1. Provide access to drinking water_x000D__x000D_
+D.2. Strengthen management committees of rural infrastructure</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00137">GOVERNMENT OF ITALY</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2005-08-29"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>847246</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">835554</value>
+            <provider-org>GOVERNMENT OF ITALY</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00047019</other-identifier>
+        <title>UN HIV-AIDS Theme Group Fund</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00248">GOVERNMENT OF UNITED KINGDOM</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>1131</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">1130</value>
+            <provider-org>GOVERNMENT OF UNITED KINGDOM</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00049784</other-identifier>
+        <title>MINECOFIN support project</title>
+        <description>Short Description: MINECOFIN is able to effectively monitor poverty trends and formulate policies; strategies and plans to address poverty in Rwanda.
+Long Description: MINECOFIN is able to effectively monitor poverty trends and formulate policies; strategies and plans to address poverty in Rwanda.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="funding" ref="10159">EUROPEAN COMMISSION</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>4000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">2044</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00050174</other-identifier>
+        <title>Biodiversity Conservat. Capaci</title>
+        <description>Short Description:  
+Long Description: Institutions and key stakeholders at central; district and local levels have capacity to manage and conserve natural resources in and around Protected Areas</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2006-03-19"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>MITO,Toshikazu</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>1581968</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">1267754</value>
+            <provider-org>Global Environment Fund Truste</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00051145</other-identifier>
+        <title>MINICOM Capacity Building Proj</title>
+        <description>Short Description:  
+Long Description: Capacity of MINICOM and its agencies strengthened in the effective management of the IF process</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>10928</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">10908</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00053451</other-identifier>
+        <title>Democratic Dialog Civil Socty</title>
+        <description>Short Description: This project aims at strengthening the dialogue process initiated by the Institut de Recherche et de Dialogue sur la Paix (IRDP) in Rwanda and its communication with audio-visual and printed tools.
+Long Description: National policies; legislations and programmes have integrated and implemented key recommendations from debates and researches on  peace and democratic society.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="10869">UN DEMOCRACY FUND (UNDEF)</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2007-04-18"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>35534</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">35030</value>
+            <provider-org>UN DEMOCRACY FUND (UNDEF)</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00055782</other-identifier>
+        <title>Capacity Building for the Ombu</title>
+        <description>Short Description: This project is aimed at building the capacity of the Ombudsman Office to attend to claims of social injustices at all levels and put in place structures and strategic framework guiding its actions.
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="10869">UN DEMOCRACY FUND (UNDEF)</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2007-03-03"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>Christine UMUTONI</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>9788</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">8511</value>
+            <provider-org>UN DEMOCRACY FUND (UNDEF)</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00056167</other-identifier>
+        <title>Support the National Institute</title>
+        <description>Short Description:  
+Long Description: By 2011; the National Institute of Statistics of Rwanda (NISR) capacity strengthened and mechanisms put in place to track and monitor the economic development and poverty reduction performance indicators in the country following a successful implementation of the institute’s Strategic Plan (2007-2011).</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00248">GOVERNMENT OF UNITED KINGDOM</participating-org>
+        <participating-org role="funding" ref="10159">EUROPEAN COMMISSION</participating-org>
+        <participating-org role="funding" ref="10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2007-04-01"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>RWABUYONZA,Jean Paul</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>850000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">795975</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00057139</other-identifier>
+        <title>Strengthening the Institutiona</title>
+        <description>Short Description:  
+Long Description: (As per project document) - Provide technical assistance to Parliament Commissions.  Provide support to the establishment of a parliamentary radio.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="001434">RLA-NATIONAL EXECUTION</participating-org>
+        <activity-date type="start" iso-date="2007-05-01"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>148000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">138029</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00057833</other-identifier>
+        <title>support to NURC</title>
+        <description>Short Description: Provide training of the grassroots conflict management actors; conduct ingando; and internal staff strengthening.
+Long Description: As per the project document:  Institutional capacity development and the organization and training of civic groups and grassroots leaders in conflict management.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2007-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>96608</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">91096</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00059293</other-identifier>
+        <title>Support to Ombudman Office</title>
+        <description>Short Description: appropriately capacitated office of the Ombudsman that has prevented and fought corruption in accordance with its strategic plan
+Long Description: (as per the project document) - Capacity Building for the Ombudsman Office staff; Surveys/Studies on Corruption Conducted; Sensitization and public involvement in fighting corruption; media and communication campaigns.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="000143">CHI-CANCILLERIA</participating-org>
+        <activity-date type="start" iso-date="2007-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>128600</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">127304</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060184</other-identifier>
+        <title>Support to HCP</title>
+        <description>Short Description: An appropriated capacitated HCP which plays a role in both insuring the independence; and the responsibility of the press in accordance with internationally accepted professional standards.
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="000143">CHI-CANCILLERIA</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00069910</other-identifier>
+        <title>Support National Women Council</title>
+        <description>Short Description: Effectiveness and capacities of constitutionaly mandated institutions to  increase state accountability; responsiveness &amp; transparency in an engendered manner enhanced
+</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2009-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>63000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">63856</value>
+            <provider-org>DEPARTMENT FOR INT'L DEVELOPME</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00058716</other-identifier>
+        <title>Disaster Emergency Coordinati</title>
+        <description>Short Description: To support national and local capacities in coordinating and leading the response and preparedness process
+Long Description: UN assistance will be focused in coordinating the response to the floods between GoR; agencies; NGOs and Districts and bolstering the capacity of the DMU; key ministries and Districts in Emergency Preparedness and Response (EPR)._x000D__x000D_
+_x000D__x000D_
+In addition to providing emergency materials; there is clear need to conduct rapid and comprehensive assessments to ensure that:_x000D__x000D_
+_x000D__x000D_
+1)	Response and early recovery in the flood-affected sectors is well coordinated and responsive to the needs of the people and integrating the environmental dimension_x000D__x000D_
+2)	National and local capacities can be properly strengthened (prevention; preparedness and response). Gishwati and Volcanoes are identified as most vulnerable and priority areas._x000D__x000D_
+_x000D__x000D_
+A consultancy will in particular focus on strengthening national and local essential capacities in contingency planning; including risks and situational analysis; man-made and natural disasters scenarios mapping; response plan; coordination mechanisms; basic information management and reporting. In addition; local capacities will be strengthened in emergency management; reporting and coordination.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2007-10-31"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>80400</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">65061</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00058367</other-identifier>
+        <title>MDG Campaign</title>
+        <description>Short Description:  
+Long Description: - Understanding of the MDGs among the population at grassroots levels increased_x000D__x000D_
+- Co-operation and coordination among UN Agencies and partners in acheiving MDGs enhanced</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00556">SNV NETHERLANDS DEVELOPMENT OR</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2007-12-18"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>RWABUYONZA,Jean Paul</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>30826</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">30826</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00058712</other-identifier>
+        <title>Participatory Rural Developmen</title>
+        <description>Short Description:  
+Long Description: Improve access to and from Coffee Washing Stations for Coffee farmers to stimulate production and marketing of Coffee and contribute to other economic activities in terms of improving trade such us trade of other commodities and access to banking services.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2007-11-18"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>Gatera,Maggy Ntarindwa</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>474715</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">452838</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060296</other-identifier>
+        <title>Capacity Building for a Decent</title>
+        <description>Short Description: Capacity building for a Decentralisewd HIV Response
+Long Description: National and decentralized institutions are fully able to plan and coordinate the multi-sectoral HIV response.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>688307</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>490500</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>450000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">672630</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">487934</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">236355</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060325</other-identifier>
+        <title>Terminal Phase-out Management</title>
+        <description>Short Description:  
+Long Description: Three regional Ozone Depleting Substances (ODS) recovery and recycling centres established.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="10009">MONTREAL PROTOCOL</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-06-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>79079</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>14000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>79900</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">74079</value>
+            <provider-org>MONTREAL PROTOCOL</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">2814</value>
+            <provider-org>MONTREAL PROTOCOL</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">2150</value>
+            <provider-org>MONTREAL PROTOCOL</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060453</other-identifier>
+        <title>Support to Ministry of Justice</title>
+        <description>Short Description:  
+Long Description: Improved capacity of the Ministry of Justice in review and revision of laws; administration and law enforcement  and access to justice to the people especially through legal aid</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>255000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>550000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>250000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">254513</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">496650</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">90943</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060454</other-identifier>
+        <title>Support to Gacaca</title>
+        <description>Short Description:  
+Long Description: Strengthening the capacity of Gacaca courts for effective closure of the process; data collection and sharing of lessons learnt</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>305000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">274187</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060455</other-identifier>
+        <title>Support to Supreme Court</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-02-05"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>350000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>304845</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>250000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">332557</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">304456</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">125840</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060456</other-identifier>
+        <title>Support to Rwanda National Pol</title>
+        <description>Short Description:  
+Long Description: Strengthening the capacity of the Rwanda National Police in community policing and crime prevention</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>350000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>169689</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>500000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">336770</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">169649</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">429378</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060880</other-identifier>
+        <title>National Environment Youth Pro</title>
+        <description>Short Description:  
+Long Description: To mobilize the youth to conduct environment protection activities so that they can enjoy income generating opportunities.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="002100">UN Development Programme</participating-org>
+        <activity-date type="start" iso-date="2008-06-10"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>490000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>100000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>490000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">489811</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">100000</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">286227</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060895</other-identifier>
+        <title>Amélioration Quartiers Précair</title>
+        <description>Short Description: Projet d'Amélioration des Quartiers Précaires des villes secondaires de la Province de l'Ouest
+Long Description: Le projet Amélioration des Quartiers Précaires des villes secondaires de la Province de l'Ouest&quot; a pour but de promouvoir le développement des infrastructures de base que sont les réseaux de voirie; de drainage des eaux pluviales; d'alimentation en eau potable et la préservation d'un environnement sain et durable en vue de promouvoir la croissance socio-économique des populations des quartiers précaires de Kamembe (Rusizi) et Kiniha (Karongi). En plus; le projet renforcera les capacités des villes cibles en matière de gestion et de protection de l'environnement urbain. Il donnera un appui au MININFRA dans la mise en oeuvre de la politique nationale de l'urbanisation et de l'habitat.&quot;</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="001972">UN Centre for Human Settlement</participating-org>
+        <participating-org role="implementing" ref="001492">IND-NGO Execution</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>350000</value>
+        </budget-planned>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00060897</other-identifier>
+        <title>Decentralization &amp; Environment</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="002100">UN Development Programme</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>704350</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>45000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>350000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">703400</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">9434</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">350040</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00061239</other-identifier>
+        <title>Stengthen capacit of NEC for e</title>
+        <description>Short Description:  
+Long Description: This project aims to support the National Electoral Commission (NEC) capacity to effectively and efficiently manage electoral processes in line with the UNDAF Goal 1: Good Governance enhanced and sustained.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="00061">GOVERNMENT OF BELGIUM</participating-org>
+        <participating-org role="funding" ref="00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="funding" ref="00078">GOVERNMENT OF CANADA</participating-org>
+        <participating-org role="funding" ref="10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <participating-org role="implementing" ref="002100">UN Development Programme</participating-org>
+        <activity-date type="start" iso-date="2008-04-04"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>400000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>450800</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>600000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">429758</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">442482</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">315171</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00061846</other-identifier>
+        <title>Support to MDG Activities; Adv</title>
+        <description>Short Description:  
+Long Description: MDGs in Rwanda monitored</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2008-08-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>226000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2008-01-01</period-start>
+            <period-end>2008-12-31</period-end>
+            <value>120000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-start>2010-01-01</period-start>
+            <period-end>2010-12-31</period-end>
+            <value>520000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">225316</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2008-01-01">28737</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2008-01-01</milestone-date>
+        </transaction>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2010-01-01">95344</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2010-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00062338</other-identifier>
+        <title>CDM-DNA Capacity Reinforcement</title>
+        <description>Short Description:  
+Long Description: To reinforce the capacity of the Designated National Authority (DNA) under REMA in order to promote the Clean Development Mechanism (CDM) projects development.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2009-02-12"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>41753</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">34351</value>
+            <provider-org>GOVERNMENT OF JAPAN</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00063145</other-identifier>
+        <title>Rwanda Peace Academy</title>
+        <description>Short Description: The project will enable good governance and lasting peace; key factors for human development
+Long Description: The project aims at filling an important niche which will contribute to address the most needed capacity gap located at the transition phase between emergency and development; a key factor to enable good governance and lasting peace which will ultimately fund the basis for sustainable development.</description>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>47871</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">42254</value>
+            <provider-org>GOVERNMENT OF JAPAN</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00069648</other-identifier>
+        <title>PIMS4109 PPG:Rw C.C.Adaptation</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2009-02-20"/>
+        <activity-date type="end" iso-date="2010-03-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>71662</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">66662</value>
+            <provider-org>Global Environment Fund Truste</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00070583</other-identifier>
+        <title>Consolidated Waste Management</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="funding" ref="10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="implementing" ref="001437">RWA-National Execution</participating-org>
+        <activity-date type="start" iso-date="2009-04-09"/>
+        <activity-date type="end" iso-date="2012-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>75000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">61435</value>
+            <provider-org>UNITED NATIONS DEVELOPMENT PRO</provider-org>
+            <receiver-org>RWA-National Execution</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00070931</other-identifier>
+        <title>Rwanda-Climate Change Adaptati</title>
+        <recipient-country code="RW"></recipient-country>
+        <participating-org role="funding" ref="00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="implementing" ref="001981">UNDP</participating-org>
+        <activity-date type="start" iso-date="2009-05-12"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <activity-status ref="2">Implementation</activity-status>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <budget-planned type="annual">
+            <period-start>2009-01-01</period-start>
+            <period-end>2009-12-31</period-end>
+            <value>25000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="disbursement">
+            <value value-date="2009-01-01">23998</value>
+            <provider-org>GOVERNMENT OF JAPAN</provider-org>
+            <receiver-org>UNDP</receiver-org>
+            <milestone-date type="disbursement">2009-01-01</milestone-date>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00014649</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00014650</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00014651</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00014658</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00014661</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00020388</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2001-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00027554</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2000-01-01"/>
+        <activity-date type="end" iso-date="2025-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00034908</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2004-03-23"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00035416</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2004-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00037326</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2004-01-01"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00040553</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2004-10-20"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00041430</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2005-03-08"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+        <contact-info>
+            <person-name>MUSINGUZI,Richard</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00042311</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2005-01-12"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00043700</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2005-03-10"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00044208</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2005-03-30"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00046255</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2005-07-13"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00048487</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2000-01-01"/>
+        <activity-date type="end" iso-date="2025-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00048488</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2000-01-01"/>
+        <activity-date type="end" iso-date="2025-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00048489</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2000-01-01"/>
+        <activity-date type="end" iso-date="2025-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00049099</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2005-12-23"/>
+        <activity-date type="end" iso-date="2010-04-01"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00052630</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2006-07-31"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00052694</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2006-07-30"/>
+        <activity-date type="end" iso-date="2009-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00056972</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2007-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00056975</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2007-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00061625</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2008-01-01"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00062692</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2008-08-01"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00071254</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2009-06-15"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00072950</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2009-11-01"/>
+        <activity-date type="end" iso-date="2011-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00073130</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2009-12-03"/>
+        <activity-date type="end" iso-date="2010-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00073311</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2009-12-15"/>
+        <activity-date type="end" iso-date="2015-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier>00073312</other-identifier>
+        <recipient-country code="RW"></recipient-country>
+        <activity-date type="start" iso-date="2009-12-15"/>
+        <activity-date type="end" iso-date="2014-12-31"/>
+        <flow-type ref="10">ODA</flow-type>
+        <finance-type ref="100" xml:lang="en">GRANT</finance-type>
+        <default-tied-status ref="3">untied</default-tied-status>
+    </iati-activity>
+</iati-activities>

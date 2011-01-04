@@ -1,0 +1,6 @@
+IATI Labs
+
+This project is intended to contain some example uses of IATI data, in particular a table rendering of IATI XML data using an XSLT transform and a map rendering of IATI XML data via a Google map.
+
+
+The iati-labs project was originally commisioned by Aidinfo (www.aidinfo.org) and developed by Aptivate (www.aptivate.org)

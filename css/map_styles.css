@@ -1,0 +1,69 @@
+body
+{ 
+  background-color:#fff;
+  font-family:Helvetica, Arial, sans-serif;
+  font-weight:bold;
+}
+
+#ui
+{ 
+  clear: both;
+  width:100%;
+}
+
+#map_area
+{ 
+  width:100%;
+  float:left;
+}
+
+#map_canvas
+{ 
+  float:left;
+  width:75%;
+  border:thick solid black;
+}
+
+#controls
+{ 
+  float:right;
+  width:20%;
+}
+
+#info
+{ 
+  font-weight:normal;
+  float:left;
+  width:75%;
+  clear:left;
+}
+
+#header h1
+{ 
+  padding-top: 20px;
+  margin-left: 140px;
+  font-family: Verdana, sans-serif;
+  color: #315217;
+}
+
+#header
+{ 
+  float:left;
+  width:100%;
+  height:98px;
+  background-image:url('../images/logo-small.png');
+  background-repeat:no-repeat;
+}
+
+#header img
+{ 
+  float:left;
+}
+
+#loading
+{ 
+  background-color:#a3c25b;
+  float:left;
+  width:auto;
+  padding:1em;
+}

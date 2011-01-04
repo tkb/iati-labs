@@ -1,0 +1,2973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities version="1.0">
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00013616</other-identifier>
+        <title>PIMS 245 BD FSP: SABSP</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>502262.11</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>6709.11</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00033829</other-identifier>
+        <title>MPRS Management and Monitoring</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2004-01-01</activity-date>
+        <activity-date type="end">2009-06-30</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>Alwin NIJHOLT</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>51</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-31.34</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00043363</other-identifier>
+        <title>PIMS 3354 CC PDFB: SNC Malawi</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>74000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>60926.96</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00045196</other-identifier>
+        <title>UNAIDS PAF FUNDS</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00297">UNAIDS</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <participating-org role="Implementing" ref="'001995">United Nations Population Fund</participating-org>
+        <activity-date type="start">2005-05-24</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>118614.64</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>72774.8</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>74746.17</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>68960</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00046014</other-identifier>
+        <title>SQAM Project (IF Window II)</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>31481</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>12883.6</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00047484</other-identifier>
+        <title>Emergency Support for Agricult</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2005-10-13</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>121352.35</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>192773.86</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00047568</other-identifier>
+        <title>PROGRAMME ON PROMOTING HUMAN R</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>284849</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>208643.58</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00053989</other-identifier>
+        <title>Capacity Development in the He</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00016">INTER-AMERICAN DEVELOPMENT BAN</participating-org>
+        <participating-org role="Funding" ref="'00168">GOVERNMENT OF MALAWI</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2006-11-30</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>57243</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1943738</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>38613.87</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1804460.336</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00048384</other-identifier>
+        <title>SUPPORT TO CONGOMA AND MEMBER</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2005-12-08</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>82762.78</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>102037.17</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00050061</other-identifier>
+        <title>Building National Procurement</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2006-02-08</activity-date>
+        <activity-date type="end">2009-06-30</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>57801</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>52625.53</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00050742</other-identifier>
+        <title>SUPPORT TO CONSTITUTIONAL REVI</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00280">EUROPEAN UNION</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2006-03-14</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>197210.55</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>12413.29</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00050992</other-identifier>
+        <title>Capacity for GSB</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>25450</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>18191.34</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00051818</other-identifier>
+        <title>Capacity Development  Educatio</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10781">THE HUNTER FOUNDATION</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2006-09-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>15750</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>17839</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>3845.146</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>15295.63</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00051929</other-identifier>
+        <title>MDGS-BASED NATIONAL STRATEGY</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'11222">MDG Cnetre</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2006-06-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>320751.25</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>119000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>127077.16</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>100872.05</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00053064</other-identifier>
+        <title>Malawi Prison Farms and Open P</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>55450</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-55444.57</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00053488</other-identifier>
+        <title>SUPPORT TO SPRM UNIT</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2006-10-17</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>708500</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>591157.21</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00054551</other-identifier>
+        <title>Community Based Paralegal Proj</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Funding" ref="'10869">UN DEMOCRACY FUND (UNDEF)</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2007-01-15</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>13</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>6.5</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-10.48</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-4.66</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00054781</other-identifier>
+        <title>ELECTORAL REFORMS AND ELECTION</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Funding" ref="'10480">USAID</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2007-01-15</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>27435.72</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>23268.67</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>7876.12</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00055550</other-identifier>
+        <title>Forum for Public Debate</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2007-02-22</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>11</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-8.41</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00057581</other-identifier>
+        <title>FINANCIAL INCLUSION IN MALAWI</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00264">ARAB GULF PROGRAMME FOR UN DEV</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'001971">United Nations Capital Develop</participating-org>
+        <activity-date type="start">2007-07-02</activity-date>
+        <activity-date type="end">2011-12-30</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>718272.17</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>75000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>793458.83</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>74978.83</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00058300</other-identifier>
+        <title>SUPPORT TO MINE ACTION IN MALA</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00555">SWEDISH INT'L DEVELOPMENT COOP</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>113921</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>113921</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00058526</other-identifier>
+        <title>Capacity Development for Publi</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2007-11-12</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1206504.2</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1188613.67</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00059951</other-identifier>
+        <title>Development Assistance DACU II</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>830001</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>783380.132</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060404</other-identifier>
+        <title>Joint Programme M&amp;E Systems</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00031">UNITED NATIONS POPULATION FUND</participating-org>
+        <participating-org role="Funding" ref="'00035">UNITED NATIONS CHILDREN'S FUND</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Funding" ref="'10581">DEUTSCHE GESELLSCHAFT FUR TECH</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-02-25</activity-date>
+        <activity-date type="end">2012-06-30</activity-date>
+        <activity-status ref="Proposed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>690001</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>10000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>19887.14</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>250247.74</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>127860.56</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>665049.73</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>9852.620000000001</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>180</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>225241.25</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>75916.33</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00071281</other-identifier>
+        <title>POVERTY SOCIAL IMPACT ANALYSIS</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>80001</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>34558.42</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060004</other-identifier>
+        <title>Capacity Development for HIV a</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>328001</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>160000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>341452.28</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060060</other-identifier>
+        <title>Disaster Risk Reduction</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>491128</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>299028.25</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060131</other-identifier>
+        <title>Democracy Consolidation Progra</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1289074</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>967531</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1020654.99</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>947903.78</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060132</other-identifier>
+        <title>Access to Justice</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>335086</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>171078.64</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060133</other-identifier>
+        <title>Strengthening Parliament</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>75501</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>75091.37</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060331</other-identifier>
+        <title>Environment &amp; Energy</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-02-26</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>440001</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>362704.76</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060332</other-identifier>
+        <title>Growing Sustainable Business</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>507845</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>496336.01</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060333</other-identifier>
+        <title>Functional Literacy and Integr</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-02-26</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>886477.49</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>787460.351</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00061419</other-identifier>
+        <title>PIMS 2085 Pvt Pub S Prt for SL</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-04-17</activity-date>
+        <activity-date type="end">2013-12-31</activity-date>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>35100</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>67170</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-17.73</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>40880</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00061640</other-identifier>
+        <title>DRR Mainstreaming</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00055">GOVERNMENT OF AUSTRALIA</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Funding" ref="'11211">IRISH AID</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-05-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>9277</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>26000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>4747.22</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>558542</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>7917.94</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>6188.47</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1771.95</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>465353.69</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00062178</other-identifier>
+        <title>LOGSIP</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00168">GOVERNMENT OF MALAWI</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-09-01</activity-date>
+        <activity-date type="end">2011-12-01</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1360500</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1284804.566</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>709.22</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00062443</other-identifier>
+        <title>SUPPORT TO ELECTORAL REFORMS</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00134">GOVERNMENT OF IRELAND</participating-org>
+        <participating-org role="Funding" ref="'00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Funding" ref="'00280">EUROPEAN UNION</participating-org>
+        <participating-org role="Funding" ref="'00550">CANADIAN INTERNATIONAL DEVELOP</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Funding" ref="'10046">GTZ</participating-org>
+        <participating-org role="Funding" ref="'10480">USAID</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>550500</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>898461.91</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1446063.75</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>948176.47</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>18000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>650</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>6539228.09</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>423458.61</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>186174.08</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>546969.673</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>900961.78</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1396909.27</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>959089.45</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-90970.35000000001</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>630</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>6516162.586</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>267198.93</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>497774.45</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00062846</other-identifier>
+        <title>Support Public Awareness</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>401001</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>331134.3</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00062902</other-identifier>
+        <title>Gender Mainstreaming in UN and</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00168">GOVERNMENT OF MALAWI</participating-org>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2008-09-05</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>580521</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1000000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>556381.299</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>6002.86</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>999998.05</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00063271</other-identifier>
+        <title>STRENGTHENING THE SME SECTOR P</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>163432</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>109067.32</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00070190</other-identifier>
+        <title>Framework for Political Partie</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2009-05-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>94001</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>72822.39999999999</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00071284</other-identifier>
+        <title>POLICY COMMUNICATION SUPPORT F</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>314831.29</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>154076.29</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00071385</other-identifier>
+        <title>Waste for Wealth:Promoting a z</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00182">GOVERNMENT OF NETHERLANDS</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>55002</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>29001</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>2857.88</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>28449.5</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00071466</other-identifier>
+        <title>AAP-PIMS-4321-CC COMPRE. APP</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="Implementing" ref="'001415">MLW-National Execution</participating-org>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00071981</other-identifier>
+        <title>Joint Youth Program</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2009-08-07</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>14066</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>9066.24</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00014653</other-identifier>
+        <title>CONSTRUCTION OF KIGOMA PRISON</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001041">RWA-Ministere De L'interieur,</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>9000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>7.34</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">00014657</other-identifier>
+        <title>Support to NHRC</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>166</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00014657</other-identifier>
+        <title>Support to NHRC</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'01787">COL-UNITED NATIONS DEVELOPMENT</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-0.3</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00014659</other-identifier>
+        <title>RESETTLEMENT IN GISENYI</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00187">GOVERNMENT OF NORWAY</participating-org>
+        <participating-org role="Implementing" ref="'001044">RWA-Ministère Des Terres, De</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'001008">RWA-Ministry For Local Governm</participating-org>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1717.96</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>45.32</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1714.37</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>45.324</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00014662</other-identifier>
+        <title>CNLS Capacity Building</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2003-07-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>UMULINGA,MARIE FRANCOISE</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>25700</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>177.6</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00014664</other-identifier>
+        <title>Technical Assist.Program. for</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>6236.62</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00035501</other-identifier>
+        <title>PAF</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00297">UNAIDS</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2004-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>UMULINGA,MARIE FRANCOISE</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>147000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>117600</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00040494</other-identifier>
+        <title>Development Support Services</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2004-10-13</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>75000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>74821.19</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00058951</other-identifier>
+        <title>Support to Aid Effectiveness</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00021">ECONOMIC COMMISSION FOR LATIN</participating-org>
+        <participating-org role="Funding" ref="'00182">GOVERNMENT OF NETHERLANDS</participating-org>
+        <participating-org role="Funding" ref="'00550">CANADIAN INTERNATIONAL DEVELOP</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Funding" ref="'00555">SWEDISH INT'L DEVELOPMENT COOP</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2007-12-05</activity-date>
+        <activity-date type="end">2012-06-30</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>78900</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>164100</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1734.62</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>7526.89</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>71240.58</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>0.67</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>19682</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>76516.77</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>138854.39</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>82.41</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>388.99</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1344.526</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>37735.52</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00041147</other-identifier>
+        <title>Support Decentralization Commu</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001008">RWA-Ministry For Local Governm</participating-org>
+        <activity-date type="start">2004-11-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>260500</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>230655.441</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00041148</other-identifier>
+        <title>Reintegration Umbrella Project</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00555">SWEDISH INT'L DEVELOPMENT COOP</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2004-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>42708.07</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>42708.07</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-43989.31</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00043228</other-identifier>
+        <title>Support to Decentralisation Im</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001008">RWA-Ministry For Local Governm</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-03-02</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>Eugene NKUBITO</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>615000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>60211.19</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>642892.826</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>60211.19</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00043701</other-identifier>
+        <title>Support to MINIJUST</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-03-10</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>3000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>-2778.09</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00043702</other-identifier>
+        <title>Support to GACACA</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-03-10</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>11</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0.02</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00050867</other-identifier>
+        <title>Prosecutor's General Office</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2006-03-22</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>135110</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>10369.73</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>72075.723</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00052887</other-identifier>
+        <title>SUPPORT TO FFRP</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2006-08-15</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>91740</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>90478.78</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00044067</other-identifier>
+        <title>GEF-PIMS3388 MED LD:SLM/CB RWA</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-04-13</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>275000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>264750</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>270074.439</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>248693.32</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00045359</other-identifier>
+        <title>Appui à la Réforme de l'Admini</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-06-06</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>318000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>273532.349</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00045517</other-identifier>
+        <title>Support to Implementation of R</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-07-29</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>MUSINGUZI,Richard</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>16052</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>8519.51</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00045699</other-identifier>
+        <title>ADB support to HIV Multisector</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00017">AFRICAN DEVELOPMENT BANK</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>UMULINGA,MARIE FRANCOISE</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>39460</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>37902.443</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00046259</other-identifier>
+        <title>STRENGTHENING CAPACITIES OF TH</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>100000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>118818</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>90420.89999999999</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>114026.485</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00046709</other-identifier>
+        <title>Poverty and Environment Progra</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00041">UNITED NATIONS ENVIRONMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-01-01</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>MUSEMAKWERI,JOHN</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>421600</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>468782</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>430328.809</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>374050.79</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00046903</other-identifier>
+        <title>Umutara Rural Development</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00137">GOVERNMENT OF ITALY</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2005-08-29</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>847246.15</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>835554.88</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00047019</other-identifier>
+        <title>UN HIV-AIDS Theme Group Fund</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00248">GOVERNMENT OF UNITED KINGDOM</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1131</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1130.03</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00049784</other-identifier>
+        <title>MINECOFIN support project</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Funding" ref="'10159">EUROPEAN COMMISSION</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>4000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>79836</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>2044.69</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>79697.28999999999</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00050174</other-identifier>
+        <title>Biodiversity Conservat. Capaci</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2006-03-19</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>MITO,Toshikazu</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1581968</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>1267754.45</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00051145</other-identifier>
+        <title>MINICOM Capacity Building Proj</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>10928</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>10908.74</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00053451</other-identifier>
+        <title>Democratic Dialog Civil Socty</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'10869">UN DEMOCRACY FUND (UNDEF)</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2007-04-18</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>35534.6</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>35030.84</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00055782</other-identifier>
+        <title>Capacity Building for the Ombu</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'10869">UN DEMOCRACY FUND (UNDEF)</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2007-03-03</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="Operationally Closed"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>Christine UMUTONI</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>9788</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>8511.67</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00056167</other-identifier>
+        <title>Support the National Institute</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00248">GOVERNMENT OF UNITED KINGDOM</participating-org>
+        <participating-org role="Funding" ref="'10159">EUROPEAN COMMISSION</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2007-04-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>MUSINGUZI,Richard</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>850000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>997974.51</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1869.7</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>1015057.39</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>795975.181</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>870217.847</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>533357.9</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00057139</other-identifier>
+        <title>Strengthening the Institutiona</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'001434">RLA-NATIONAL EXECUTION</participating-org>
+        <activity-date type="start">2007-05-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>148000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>594625</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>138029.89</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>578902.683</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00057833</other-identifier>
+        <title>support to NURC</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2007-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>96608</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>364510.7</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>91096.23699999999</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>353781.03</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00059293</other-identifier>
+        <title>Support to Ombudman Office</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'000143">CHI-CANCILLERIA</participating-org>
+        <activity-date type="start">2007-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>128600</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>516772</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>127304.823</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>556887.41</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060184</other-identifier>
+        <title>Support to HCP</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'000143">CHI-CANCILLERIA</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>139000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>260752</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>123794.151</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>222914.89</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00069910</other-identifier>
+        <title>Support National Women Council</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>63000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>63856.95</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00058716</other-identifier>
+        <title>Disaster Emergency Coordinati</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2007-10-31</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>80400</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>65061.54</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00058367</other-identifier>
+        <title>MDG Campaign</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00556">SNV NETHERLANDS DEVELOPMENT OR</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2007-12-18</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>RWABUYONZA,Jean Paul</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>30826.98</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>111615.47</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>30826.98</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>111218.41</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00058712</other-identifier>
+        <title>Participatory Rural Developmen</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2007-11-18</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <contact-info>
+            <person-name>Gatera,Maggy Ntarindwa</person-name>
+        </contact-info>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>474715</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>452838.15</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060296</other-identifier>
+        <title>Capacity Building for a Decent</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>688307</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>672630.883</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060325</other-identifier>
+        <title>Terminal Phase-out Management</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'10009">MONTREAL PROTOCOL</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-06-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>79079.36</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>74079.36</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060453</other-identifier>
+        <title>Support to Ministry of Justice</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>255000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>254513.588</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060454</other-identifier>
+        <title>Support to Gacaca</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>305000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>274187.963</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060455</other-identifier>
+        <title>Support to Supreme Court</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-02-05</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>350000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>332557.187</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060456</other-identifier>
+        <title>Support to Rwanda National Pol</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>350000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>336770.932</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060880</other-identifier>
+        <title>National Environment Youth Pro</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-06-10</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>490000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>84193</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>489811.495</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>78788.36</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060895</other-identifier>
+        <title>Amélioration Quartiers Précair</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <participating-org role="Implementing" ref="'001972">UN Centre for Human Settlement</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>170000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>0</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>136912.63</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00060897</other-identifier>
+        <title>Decentralization &amp; Environment</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>704350.6</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>80110</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>703400.9179999999</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>79482.67</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00061239</other-identifier>
+        <title>Stengthen capacit of NEC for e</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'00061">GOVERNMENT OF BELGIUM</participating-org>
+        <participating-org role="Funding" ref="'00551">DEPARTMENT FOR INT'L DEVELOPME</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-04-04</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>400000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>99961</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>21000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>429758.528</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>92252.67</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>57375.52</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00061846</other-identifier>
+        <title>Support to MDG Activities, Adv</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2008-08-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>226000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>225316.356</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00062338</other-identifier>
+        <title>CDM-DNA Capacity Reinforcement</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2009-02-12</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>41753</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>34351.1</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00063145</other-identifier>
+        <title>Rwanda Peace Academy</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>47871</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>42254.085</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00069648</other-identifier>
+        <title>PIMS4109 PPG:Rw C.C.Adaptation</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'10003">Global Environment Fund Truste</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2009-02-20</activity-date>
+        <activity-date type="end">2010-03-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>71662.8</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>66662.8</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00070583</other-identifier>
+        <title>Consolidated Waste Management</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00012">UNITED NATIONS DEVELOPMENT PRO</participating-org>
+        <participating-org role="Funding" ref="'10714">UNDP AS AA FOR JP PASS THROUGH</participating-org>
+        <participating-org role="Implementing" ref="'001437">RWA-National Execution</participating-org>
+        <activity-date type="start">2009-04-09</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>75000</value>
+        </budget-planned>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>50000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>61435.22</value>
+        </transaction>
+        <transaction flow="outgoing" type="expenditure">
+            <value>40618.2</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity default-currency="USD" xml:lang="en">
+        <reporting-org>UNDP</reporting-org>
+        <other-identifier owner-name="UNDP">'00070931</other-identifier>
+        <title>Rwanda-Climate Change Adaptati</title>
+        <recipient-country code="MW"></recipient-country>
+        <participating-org role="Funding" ref="'00141">GOVERNMENT OF JAPAN</participating-org>
+        <participating-org role="Implementing" ref="'001981">UNDP</participating-org>
+        <activity-date type="start">2009-05-12</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <activity-status ref="On Going"/>
+        <flow-type>ODA</flow-type>
+        <finance-type xml:lang="en">Grant</finance-type>
+        <budget-planned type="annual">
+            <period-end>2009-12-31</period-end>
+            <value>25000</value>
+        </budget-planned>
+        <transaction flow="outgoing" type="expenditure">
+            <value>23998.76</value>
+        </transaction>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2009-08-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">1950-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">1950-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2009-08-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>BOBE,Augustine</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>Kalyati,Esnath</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-06-16</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-12-21</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2000-01-01</activity-date>
+        <activity-date type="end">2025-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-01-19</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2000-01-01</activity-date>
+        <activity-date type="end">2025-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-01-01</activity-date>
+        <activity-date type="end">1950-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-10-06</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-12-20</activity-date>
+        <activity-date type="end">1950-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2006-01-20</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2006-01-01</activity-date>
+        <activity-date type="end">2009-03-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2006-03-17</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2006-04-19</activity-date>
+        <activity-date type="end">2015-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2007-01-15</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-02-26</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-04-10</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-06-20</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-09-22</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-07-29</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-11-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-01-01</activity-date>
+        <activity-date type="end">2012-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2001-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>SABO,ISIYAKA</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-03-23</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-01-01</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2004-10-20</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-03-08</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+        <contact-info>
+            <person-name>MUSINGUZI,Richard</person-name>
+        </contact-info>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-01-12</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-03-10</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-03-30</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-07-13</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2000-01-01</activity-date>
+        <activity-date type="end">2025-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2000-01-01</activity-date>
+        <activity-date type="end">2025-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2000-01-01</activity-date>
+        <activity-date type="end">2025-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2005-12-23</activity-date>
+        <activity-date type="end">2010-04-01</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2006-07-31</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2006-07-30</activity-date>
+        <activity-date type="end">2009-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2007-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2007-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">1899-12-30</activity-date>
+        <activity-date type="end">1899-12-30</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-01-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2008-08-01</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-06-15</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-11-01</activity-date>
+        <activity-date type="end">2011-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-12-03</activity-date>
+        <activity-date type="end">2010-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-12-15</activity-date>
+        <activity-date type="end">2015-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+    <iati-activity xml:lang="en">
+        <recipient-country code="MW"></recipient-country>
+        <activity-date type="start">2009-12-15</activity-date>
+        <activity-date type="end">2014-12-31</activity-date>
+        <flow-type></flow-type>
+        <finance-type xml:lang="en"></finance-type>
+    </iati-activity>
+</iati-activities>

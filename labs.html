@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<link type="text/css" href="css/labs/jquery-ui-1.8.2.custom.css" rel="stylesheet" />	
+		<link type="text/css" href="css/labs.css" rel="stylesheet" />	
+        <link rel="icon" type="image/png" href="images/iati.png" />
+        <link rel="shortcut icon" href="images/iati.ico" />
+ 
+        <link href="css/map_styles.css" type="text/css" rel="stylesheet" />
+        <link href="css/credits.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.8.2.custom.min.js"></script>
+		<script type="text/javascript" src="js/jquery.xslt.js"></script>
+        <script type="text/javascript" src="js/jquery.query-2.1.7.js"></script>
+        <!--script type="text/javascript" src="js/jquery.livequery.min.js"></script-->
+        <script type='text/javascript' src='http://www.google.com/jsapi'></script>
+		<script type="text/javascript" src="js/labs.js"></script>
+        <script type='text/javascript' src='js/map.js'></script>
+		<script type="text/javascript" src="js/countrycodes.js"></script>
+		<script type="text/javascript" src="js/sourcecodes.js"></script>
+    </head>
+    <body>
+
+        <div id="header">
+            <h1>IATI Labs</h1>
+        </div>
+        <div dates="body">
+            <div id="tabs">
+                <ul>
+                    <li><a href="#tab-table"><span>Table</span></a></li>
+                    <li><a href="#ui"><span>Map</span></a></li>
+                  <!--  <li><a href="#tab-data"><span>Data</span></a></li> 
+                  <li><a href="#tab-about"><span>About</span></a></li> -->
+                </ul>
+                <div id="tab-table">
+                    <h3 id="table_title">IATI Data</h3>
+                    <img class="collapseall" src="images/iatiminus.png" alt="[+] Collapse All" /> 
+                    <img class="expandall" src="images/iatiplus.png" alt="[+] Expand All" /> 
+                    <table id="iatitable"></table>
+                    <img class="collapseall" src="images/iatiminus.png" alt="[+] Collapse All" /> 
+                    <img class="expandall" src="images/iatiplus.png" alt="[+] Expand All" /> 
+                </div>
+
+    <div id="ui">
+      <h2>Which countries currently have the most donor activities?</h2>
+      <div id="map_area">
+    	<div id="loading">
+	      Loading data, please wait...
+	    </div>
+	    <div id="map_canvas">
+	    </div>
+	    <div id="controls">
+	        <p>Sources to Display</p>
+	        <form id="sources">
+	            <p>
+	                <input type="checkbox" id="dfid" name="dfid" checked="checked" onchange="drawMap()" />
+	                <label for="dfid">DFID</label>
+	            </p>
+                <p>
+                    <input type="checkbox" id="worldbank" name="worldbank" onchange="drawMap()" />
+                    <label for="worldbank">World Bank</label>
+                </p>
+                <p>
+                    <input type="checkbox" id="undp" name="undp" onchange="drawMap()" />
+                    <label for="undp">UNDP</label>
+                </p>
+            </form> 
+        </div>
+        <div id="info">
+            This map is being dynamically generated using data from <a href="http://iatiregistry.org">http://iatiregistry.org</a>. Each country is coloured according to the number of activities a donor has recorded there. A darker colour suggests a greater number of donor activities.
+        </div>
+    </div>
+    <div id="clear">
+        &nbsp;
+    </div>
+  </div>
+
+
+               <!-- <div id="tab-data">
+                    <h2>iati data</h2>
+                    <p>iati xml data </p>
+                    <ul>
+                        <li><a href="...">example 1</a></li>
+                        <li><a href="...">example 2</a></li>
+                        <li><a href="...">example 3</a></li>
+                    </ul>
+                </div>
+                <div id="tab-about">
+                    <h2>About IATI Labs</h2>
+                    <p>Visualising IATI data...</p>
+                </div> -->
+            </div>
+        </div>
+    <div id="credits">
+	    <p>made by <a href="http://www.aptivate.org">Apti<span id="V">V</span><span id="A">A</span>te</a></p>
+    </div>
+    </body>
+</html>

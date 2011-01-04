@@ -1,0 +1,18 @@
+#credits {
+    font-size: 0.7em;
+    margin-top: 25px;
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+}
+
+#credits a {
+    color: #56789a;
+}
+
+#credits #V {
+    color: #0692cf;
+}
+
+#credits #A {
+    color: #0055a6;
+}

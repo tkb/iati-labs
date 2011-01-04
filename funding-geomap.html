@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="icon" type="image/png" href="images/iati.png" />
+    <link rel="shortcut icon" href="images/iati.ico" />
+    <script type='text/javascript' src='http://www.google.com/jsapi'></script>
+    <script type='text/javascript' src='js/jquery-1.4.2.js'></script>
+    <script type='text/javascript' src='js/map.js'></script>
+    <link href="css/map_styles.css" type="text/css" rel="stylesheet" />
+    <link href="css/credits.css" type="text/css" rel="stylesheet" />
+    <title>IATI Map Visualisation</title>
+  </head>
+
+  <body>
+    <div id="header">
+        <h1>IATI Labs</h1>
+    </div>
+    <div id="ui">
+      <h2>Which countries currently have the most donor activities?</h2>
+      <div id="map_area">
+    	<div id="loading">
+	      Loading data, please wait...
+	    </div>
+	    <div id="map_canvas">
+	    </div>
+	    <div id="controls">
+	        <p>Sources to Display</p>
+	        <form id="sources">
+	            <p>
+	                <input type="checkbox" id="dfid" name="dfid" checked="checked" onchange="drawMap()" />
+	                <label for="dfid">DFID</label>
+	            </p>
+                <p>
+                    <input type="checkbox" id="worldbank" name="worldbank" onchange="drawMap()" />
+                    <label for="worldbank">World Bank</label>
+                </p>
+                <p>
+                    <input type="checkbox" id="undp" name="undp" onchange="drawMap()" />
+                    <label for="undp">UNDP</label>
+                </p>
+            </form> 
+        </div>
+        <div id="info">
+            This map is being dynamically generated using data from <a href="http://iatiregistry.org">http://iatiregistry.org</a>. Each country is coloured according to the number of activities a donor has recorded there. A darker colour suggests a greater number of donor activities.
+        </div>
+      </div>
+    <div id="credits">
+	    <p>made by <a href="http://www.aptivate.org">Apti<span id="V">V</span><span id="A">A</span>te</a></p>
+    </div>
+  </body>
+</html>
